@@ -1,1 +1,1 @@
-print("Hello from second-project!")
+print("Hello from pull request!")
